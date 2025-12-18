@@ -46,21 +46,34 @@
 - 錄影 : https://drive.google.com/file/d/11_Osa3FNZLqfQu7SboZ8yE3kmDTYmRhy/view?usp=drive_link  
 　  
 ```
-8. Serverless 介紹 - Google (2024/12/07)
+8. Kafka 介紹 (2024/09/28)
+```
+- 簡報 : https://pitch.com/v/kafka-introduce-xtwud9  
+- 錄影 : 
+　  
+```
+9. Serverless 介紹 - Google (2024/12/07)
 相關技術 : firebase/ Docker/ CloudSQL-MySQL/ Google Cloud Run/ CICD  
 ```
-- 簡報： https://pitch.com/v/severless-deploy-94iajf/5eaaccc0-808d-4506-beeb-9334739a30b4  
-- 錄影：https://drive.google.com/file/d/1qsjgkCPEGSd4-GCz4vk8-vTXyR_PPlXb/view?usp=drive_link  
+- 簡報 : https://pitch.com/v/severless-deploy-94iajf/5eaaccc0-808d-4506-beeb-9334739a30b4  
+- 錄影 : https://drive.google.com/file/d/1qsjgkCPEGSd4-GCz4vk8-vTXyR_PPlXb/view?usp=drive_link  
 　  
 ```
-9. Serverless介紹 - AWS (2024/04/12)
+10. Serverless介紹 - AWS (2024/04/12)
 相關技術 : AWS Lambda/ Dokcer/ Zappa
 ```
-- 簡報：https://pitch.com/v/severless-deploy---aws-i8mc4m  
+- 簡報 : https://pitch.com/v/severless-deploy---aws-i8mc4m  
 　  
 ```
-10. 這樣寫簡單的前端太輕鬆了吧 (2025/06/21)
+11. 這樣寫簡單的前端太輕鬆了吧 (2025/06/21)
 相關技術 : Bolt.new/ Codex 
 ```
-- 投影片： https://pitch.com/v/easy-to-make-frontend-x995me  
-- 錄影：https://drive.google.com/file/d/1qWkM4oE6Se6iKjFfC12HK5sAkEp-HHSn/view?usp=drive_link  
+- 簡報 : https://pitch.com/v/easy-to-make-frontend-x995me  
+- 錄影 : https://drive.google.com/file/d/1qWkM4oE6Se6iKjFfC12HK5sAkEp-HHSn/view?usp=drive_link
+
+```
+12. 淺談高併發系統設計 (2025/12/20)
+相關技術 : Flask/ Fastapi/ pub/sub/ gunicorn/ uvicorn/ WSGI/ ASGI 
+```
+- 簡報 : https://pitch.com/v/high-concurrency-system-design-356a99   
+- 錄影 : 
